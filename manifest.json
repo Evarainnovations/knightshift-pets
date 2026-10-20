@@ -1,0 +1,36 @@
+{
+  "format": "chatgpt-work-pet-v2",
+  "generated_at": "2026-10-20",
+  "grid": {
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "cell_width": 192,
+    "cell_height": 208,
+    "frames_per_row": [6, 8, 8, 4, 5, 8, 6, 6, 6, 8, 8]
+  },
+  "pets": [
+    {
+      "slug": "emerald-dragon-left",
+      "name": "Emerald Dragon — Left",
+      "description": "A left-facing jewel-green Stage 4 dragon with gold accents and focused fire-breathing work animations.",
+      "file": "pets/emerald-dragon-left/spritesheet.png",
+      "sha256": "8cd85989d14457d8d8abf2baa9a916de82813826eb97672b09d707562b5af887"
+    },
+    {
+      "slug": "snow-leopard",
+      "name": "Snow Leopard",
+      "description": "Stage 3 snow leopard companion with fully animated work, movement, reaction, and look-direction states.",
+      "file": "pets/snow-leopard/spritesheet.png",
+      "sha256": "9cc89b26f5535893546af58dd8378c1022a49d3544718d824000d9dde759f5d3"
+    },
+    {
+      "slug": "engineer",
+      "name": "Engineer",
+      "description": "A compact Codex digital pet based on Factorio's default yellow armored engineer.",
+      "file": "pets/engineer/spritesheet.png",
+      "sha256": "edc44e65259acf5b7175d0cab4ebdda371f2679701a638a43cced9871a7c1c45"
+    }
+  ]
+}
